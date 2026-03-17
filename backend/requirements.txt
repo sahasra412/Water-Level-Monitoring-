@@ -1,7 +1,9 @@
-requests
-psycopg2-binary
 fastapi
 uvicorn
-pydantic
+psycopg2-binary
 python-dotenv
+pydantic
+requests
+scikit-learn
+pandas
 joblib
